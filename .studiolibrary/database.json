@@ -314,6 +314,15 @@
         "modified": 1793257982.5013444,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
+    "../../MUE_02/HandA_0100.pose": {
+        "name": "HandA_0100.pose",
+        "path": "../../MUE_02/HandA_0100.pose",
+        "type": ".pose",
+        "folder": "../../MUE_02",
+        "category": "MUE_02",
+        "modified": 1793260516.7924886,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
     "../../MUE_02/HandL_0020.pose": {
         "name": "HandL_0020.pose",
         "path": "../../MUE_02/HandL_0020.pose",
