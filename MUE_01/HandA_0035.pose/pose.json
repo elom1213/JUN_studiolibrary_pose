@@ -1,0 +1,501 @@
+{
+  "metadata": {
+    "description": "",
+    "user": "user",
+    "ctime": "1781789152",
+    "version": "1.0.0",
+    "references": [
+      {
+        "filename": "G:/D_link_dir/02_Maya_Src_Rig_JUN/02_Cage/003_branch_01_MUE/Cage_46_branch_05.mb{1}",
+        "unresolved": "G:/D_link_dir/02_Maya_Src_Rig_JUN/02_Cage/003_branch_01_MUE/Cage_46_branch_05.mb",
+        "namespace": "cage",
+        "node": "A:IVI:cageRN"
+      }
+    ],
+    "mayaVersion": "2023",
+    "mayaSceneFile": "E:/000_PJ/0023_MUE_original/00_04_02_ANI_00_PJ_010/scenes/3020_cleanup_GN_IVI/0010_cleanUp_GN_IVI_04.mb"
+  }
+,
+  "objects": {
+    "A:IVI:cage:CH_Thumb_intermediate_L_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -4.457811636910842
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.01867250511414874
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -31.585301815345908
+        }
+      }
+    },
+    "A:IVI:cage:CH_Thumb_distal_L_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -72.68604723600266
+        }
+      }
+    },
+    "A:IVI:cage:CH_Thumb_proxinal_L_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -18.066855535952342
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -2.4242493685379145
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -9.706469543423882
+        }
+      }
+    },
+    "A:IVI:cage:CH_Index_proxinal_L_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -0.9135470548973129
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -2.607656187174076
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 7.8973959954984405
+        }
+      }
+    },
+    "A:IVI:cage:CH_Index_intermediate_L_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "A:IVI:cage:CH_Index_distal_L_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "A:IVI:cage:CH_Middle_proximal_L_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 1.407637288764107
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -1.7549341161250367
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -82.4275940188785
+        }
+      }
+    },
+    "A:IVI:cage:CH_Middle_intermideate_L_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -89.69785265766504
+        }
+      }
+    },
+    "A:IVI:cage:CH_Middle_distal_L_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -72.60971620785222
+        }
+      }
+    },
+    "A:IVI:cage:CH_Ring_proximal_L_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -1.6824954050885985
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -9.587642334267743
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -86.27824925623116
+        }
+      }
+    },
+    "A:IVI:cage:CH_Ring_intermediate_L_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -102.05085237069508
+        }
+      }
+    },
+    "A:IVI:cage:CH_Ring_distal_L_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -60.23461905164525
+        }
+      }
+    },
+    "A:IVI:cage:CH_Lttle_proximal_L_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -8.429407264475643
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -21.31194986870219
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -78.27626009088314
+        }
+      }
+    },
+    "A:IVI:cage:CH_Lttle_intermediate_L_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -92.41589218407887
+        }
+      }
+    },
+    "A:IVI:cage:CH_Lttle_distal_L_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -79.17412671687646
+        }
+      }
+    },
+    "A:IVI:cage:CH_Thumb_intermediate_R_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -23.07712317673336
+        }
+      }
+    },
+    "A:IVI:cage:CH_Thumb_proxinal_R_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -14.464815332522095
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -5.396524881101387
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -3.182217025832335
+        }
+      }
+    },
+    "A:IVI:cage:CH_Thumb_distal_R_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -72.28005970552753
+        }
+      }
+    },
+    "A:IVI:cage:CH_Index_proxinal_R_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 12.429250547320308
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -17.976068929713303
+        }
+      }
+    },
+    "A:IVI:cage:CH_Index_intermediate_R_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 6.987805201738453
+        }
+      }
+    },
+    "A:IVI:cage:CH_Index_distal_R_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 6.08602069105482
+        }
+      }
+    },
+    "A:IVI:cage:CH_Middle_proximal_R_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -88.6238645167082
+        }
+      }
+    },
+    "A:IVI:cage:CH_Middle_intermideate_R_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -88.6238645167082
+        }
+      }
+    },
+    "A:IVI:cage:CH_Middle_distal_R_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -88.6238645167082
+        }
+      }
+    },
+    "A:IVI:cage:CH_Ring_proximal_R_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -5.297206026341389
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -5.503366522035532
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -87.69050135434323
+        }
+      }
+    },
+    "A:IVI:cage:CH_Ring_intermediate_R_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -88.6238645167082
+        }
+      }
+    },
+    "A:IVI:cage:CH_Ring_distal_R_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -88.6238645167082
+        }
+      }
+    },
+    "A:IVI:cage:CH_Lttle_proximal_R_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -15.174981020722207
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -16.58233340903512
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -82.93254259079363
+        }
+      }
+    },
+    "A:IVI:cage:CH_Lttle_intermediate_R_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -88.6238645167082
+        }
+      }
+    },
+    "A:IVI:cage:CH_Lttle_distal_R_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -88.62386451670821
+        }
+      }
+    }
+  }
+}

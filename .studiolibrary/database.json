@@ -1,0 +1,606 @@
+{
+    "../../MUE_01": {
+        "name": "MUE_01",
+        "path": "../../MUE_01",
+        "type": "Folder",
+        "folder": "../..",
+        "category": "0010_pose",
+        "modified": 1793155101.8843567,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../MUE_01/CHOEUN.mirror": {
+        "name": "CHOEUN.mirror",
+        "path": "../../MUE_01/CHOEUN.mirror",
+        "type": ".mirror",
+        "folder": "../../MUE_01",
+        "category": "MUE_01",
+        "modified": 1781273840.178055,
+        "__class__": "studiolibrarymaya.mirroritem.MirrorItem"
+    },
+    "../../MUE_01/CHOEUN_02.mirror": {
+        "name": "CHOEUN_02.mirror",
+        "path": "../../MUE_01/CHOEUN_02.mirror",
+        "type": ".mirror",
+        "folder": "../../MUE_01",
+        "category": "MUE_01",
+        "modified": 1781273865.8867664,
+        "__class__": "studiolibrarymaya.mirroritem.MirrorItem"
+    },
+    "../../MUE_01/HandA_0010.pose": {
+        "name": "HandA_0010.pose",
+        "path": "../../MUE_01/HandA_0010.pose",
+        "type": ".pose",
+        "folder": "../../MUE_01",
+        "category": "MUE_01",
+        "modified": 1781272436.7948852,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_01/HandA_0020.pose": {
+        "name": "HandA_0020.pose",
+        "path": "../../MUE_01/HandA_0020.pose",
+        "type": ".pose",
+        "folder": "../../MUE_01",
+        "category": "MUE_01",
+        "modified": 1777638500.6334636,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_01/HandA_0025.pose": {
+        "name": "HandA_0025.pose",
+        "path": "../../MUE_01/HandA_0025.pose",
+        "type": ".pose",
+        "folder": "../../MUE_01",
+        "category": "MUE_01",
+        "modified": 1781318850.0197425,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_01/HandA_0030.pose": {
+        "name": "HandA_0030.pose",
+        "path": "../../MUE_01/HandA_0030.pose",
+        "type": ".pose",
+        "folder": "../../MUE_01",
+        "category": "MUE_01",
+        "modified": 1781327337.8020039,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_01/HandA_0035.pose": {
+        "name": "HandA_0035.pose",
+        "path": "../../MUE_01/HandA_0035.pose",
+        "type": ".pose",
+        "folder": "../../MUE_01",
+        "category": "MUE_01",
+        "modified": 1781789152.8392124,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_01/HandA_0035_Test.pose": {
+        "name": "HandA_0035_Test.pose",
+        "path": "../../MUE_01/HandA_0035_Test.pose",
+        "type": ".pose",
+        "folder": "../../MUE_01",
+        "category": "MUE_01",
+        "modified": 1793154724.2659357,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_01/HandA_0040.pose": {
+        "name": "HandA_0040.pose",
+        "path": "../../MUE_01/HandA_0040.pose",
+        "type": ".pose",
+        "folder": "../../MUE_01",
+        "category": "MUE_01",
+        "modified": 1781330803.8215451,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_01/HandA_0050.pose": {
+        "name": "HandA_0050.pose",
+        "path": "../../MUE_01/HandA_0050.pose",
+        "type": ".pose",
+        "folder": "../../MUE_01",
+        "category": "MUE_01",
+        "modified": 1781702631.056824,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_01/HandA_0060.pose": {
+        "name": "HandA_0060.pose",
+        "path": "../../MUE_01/HandA_0060.pose",
+        "type": ".pose",
+        "folder": "../../MUE_01",
+        "category": "MUE_01",
+        "modified": 1782917955.4418373,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_01/HandA_0070.pose": {
+        "name": "HandA_0070.pose",
+        "path": "../../MUE_01/HandA_0070.pose",
+        "type": ".pose",
+        "folder": "../../MUE_01",
+        "category": "MUE_01",
+        "modified": 1785155997.808964,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_01/HandA_0080.pose": {
+        "name": "HandA_0080.pose",
+        "path": "../../MUE_01/HandA_0080.pose",
+        "type": ".pose",
+        "folder": "../../MUE_01",
+        "category": "MUE_01",
+        "modified": 1785332392.9299736,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_01/HandL_0020.pose": {
+        "name": "HandL_0020.pose",
+        "path": "../../MUE_01/HandL_0020.pose",
+        "type": ".pose",
+        "folder": "../../MUE_01",
+        "category": "MUE_01",
+        "modified": 1781274229.9677286,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_01/HandR_0020.pose": {
+        "name": "HandR_0020.pose",
+        "path": "../../MUE_01/HandR_0020.pose",
+        "type": ".pose",
+        "folder": "../../MUE_01",
+        "category": "MUE_01",
+        "modified": 1777638099.2712579,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_01/HandR_0025.pose": {
+        "name": "HandR_0025.pose",
+        "path": "../../MUE_01/HandR_0025.pose",
+        "type": ".pose",
+        "folder": "../../MUE_01",
+        "category": "MUE_01",
+        "modified": 1781276245.2710073,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_01/HandR_0030.pose": {
+        "name": "HandR_0030.pose",
+        "path": "../../MUE_01/HandR_0030.pose",
+        "type": ".pose",
+        "folder": "../../MUE_01",
+        "category": "MUE_01",
+        "modified": 1781275858.9284556,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_01/HandR_0040.pose": {
+        "name": "HandR_0040.pose",
+        "path": "../../MUE_01/HandR_0040.pose",
+        "type": ".pose",
+        "folder": "../../MUE_01",
+        "category": "MUE_01",
+        "modified": 1781275896.3240123,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_01/HandR_0050.pose": {
+        "name": "HandR_0050.pose",
+        "path": "../../MUE_01/HandR_0050.pose",
+        "type": ".pose",
+        "folder": "../../MUE_01",
+        "category": "MUE_01",
+        "modified": 1781347220.187967,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_01/mirror_test.mirror": {
+        "name": "mirror_test.mirror",
+        "path": "../../MUE_01/mirror_test.mirror",
+        "type": ".mirror",
+        "folder": "../../MUE_01",
+        "category": "MUE_01",
+        "modified": 1777642753.5847886,
+        "__class__": "studiolibrarymaya.mirroritem.MirrorItem"
+    },
+    "../../MUE_02": {
+        "name": "MUE_02",
+        "path": "../../MUE_02",
+        "type": "Folder",
+        "folder": "../..",
+        "category": "0010_pose",
+        "modified": 1793155101.8843567,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../MUE_02/CHOEUN.mirror": {
+        "name": "CHOEUN.mirror",
+        "path": "../../MUE_02/CHOEUN.mirror",
+        "type": ".mirror",
+        "folder": "../../MUE_02",
+        "category": "MUE_02",
+        "modified": 1781273840.178055,
+        "__class__": "studiolibrarymaya.mirroritem.MirrorItem"
+    },
+    "../../MUE_02/CHOEUN_02.mirror": {
+        "name": "CHOEUN_02.mirror",
+        "path": "../../MUE_02/CHOEUN_02.mirror",
+        "type": ".mirror",
+        "folder": "../../MUE_02",
+        "category": "MUE_02",
+        "modified": 1781273865.8867664,
+        "__class__": "studiolibrarymaya.mirroritem.MirrorItem"
+    },
+    "../../MUE_02/HandA_0010.pose": {
+        "name": "HandA_0010.pose",
+        "path": "../../MUE_02/HandA_0010.pose",
+        "type": ".pose",
+        "folder": "../../MUE_02",
+        "category": "MUE_02",
+        "modified": 1793167661.9664853,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_02/HandA_0020.pose": {
+        "name": "HandA_0020.pose",
+        "path": "../../MUE_02/HandA_0020.pose",
+        "type": ".pose",
+        "folder": "../../MUE_02",
+        "category": "MUE_02",
+        "modified": 1793158502.0611224,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_02/HandA_0025.pose": {
+        "name": "HandA_0025.pose",
+        "path": "../../MUE_02/HandA_0025.pose",
+        "type": ".pose",
+        "folder": "../../MUE_02",
+        "category": "MUE_02",
+        "modified": 1781318850.0197425,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_02/HandA_0030.pose": {
+        "name": "HandA_0030.pose",
+        "path": "../../MUE_02/HandA_0030.pose",
+        "type": ".pose",
+        "folder": "../../MUE_02",
+        "category": "MUE_02",
+        "modified": 1793158661.7172353,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_02/HandA_0035.pose": {
+        "name": "HandA_0035.pose",
+        "path": "../../MUE_02/HandA_0035.pose",
+        "type": ".pose",
+        "folder": "../../MUE_02",
+        "category": "MUE_02",
+        "modified": 1793159480.4001741,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_02/HandA_0040.pose": {
+        "name": "HandA_0040.pose",
+        "path": "../../MUE_02/HandA_0040.pose",
+        "type": ".pose",
+        "folder": "../../MUE_02",
+        "category": "MUE_02",
+        "modified": 1781330803.8215451,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_02/HandA_0050.pose": {
+        "name": "HandA_0050.pose",
+        "path": "../../MUE_02/HandA_0050.pose",
+        "type": ".pose",
+        "folder": "../../MUE_02",
+        "category": "MUE_02",
+        "modified": 1781702631.056824,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_02/HandA_0060.pose": {
+        "name": "HandA_0060.pose",
+        "path": "../../MUE_02/HandA_0060.pose",
+        "type": ".pose",
+        "folder": "../../MUE_02",
+        "category": "MUE_02",
+        "modified": 1782917955.4418373,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_02/HandA_0070.pose": {
+        "name": "HandA_0070.pose",
+        "path": "../../MUE_02/HandA_0070.pose",
+        "type": ".pose",
+        "folder": "../../MUE_02",
+        "category": "MUE_02",
+        "modified": 1785155997.808964,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_02/HandA_0080.pose": {
+        "name": "HandA_0080.pose",
+        "path": "../../MUE_02/HandA_0080.pose",
+        "type": ".pose",
+        "folder": "../../MUE_02",
+        "category": "MUE_02",
+        "modified": 1785332392.9299736,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_02/HandA_0090.pose": {
+        "name": "HandA_0090.pose",
+        "path": "../../MUE_02/HandA_0090.pose",
+        "type": ".pose",
+        "folder": "../../MUE_02",
+        "category": "MUE_02",
+        "modified": 1793257982.5013444,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_02/HandL_0020.pose": {
+        "name": "HandL_0020.pose",
+        "path": "../../MUE_02/HandL_0020.pose",
+        "type": ".pose",
+        "folder": "../../MUE_02",
+        "category": "MUE_02",
+        "modified": 1781274229.9677286,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_02/HandR_0020.pose": {
+        "name": "HandR_0020.pose",
+        "path": "../../MUE_02/HandR_0020.pose",
+        "type": ".pose",
+        "folder": "../../MUE_02",
+        "category": "MUE_02",
+        "modified": 1777638099.2712579,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_02/HandR_0025.pose": {
+        "name": "HandR_0025.pose",
+        "path": "../../MUE_02/HandR_0025.pose",
+        "type": ".pose",
+        "folder": "../../MUE_02",
+        "category": "MUE_02",
+        "modified": 1781276245.2710073,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_02/HandR_0030.pose": {
+        "name": "HandR_0030.pose",
+        "path": "../../MUE_02/HandR_0030.pose",
+        "type": ".pose",
+        "folder": "../../MUE_02",
+        "category": "MUE_02",
+        "modified": 1781275858.9284556,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_02/HandR_0040.pose": {
+        "name": "HandR_0040.pose",
+        "path": "../../MUE_02/HandR_0040.pose",
+        "type": ".pose",
+        "folder": "../../MUE_02",
+        "category": "MUE_02",
+        "modified": 1781275896.3240123,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_02/HandR_0050.pose": {
+        "name": "HandR_0050.pose",
+        "path": "../../MUE_02/HandR_0050.pose",
+        "type": ".pose",
+        "folder": "../../MUE_02",
+        "category": "MUE_02",
+        "modified": 1781347220.187967,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../MUE_02/mirror_test.mirror": {
+        "name": "mirror_test.mirror",
+        "path": "../../MUE_02/mirror_test.mirror",
+        "type": ".mirror",
+        "folder": "../../MUE_02",
+        "category": "MUE_02",
+        "modified": 1777642753.5847886,
+        "__class__": "studiolibrarymaya.mirroritem.MirrorItem"
+    },
+    "../../Meflat": {
+        "name": "Meflat",
+        "path": "../../Meflat",
+        "type": "Folder",
+        "folder": "../..",
+        "category": "0010_pose",
+        "modified": 1789919046.819014,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../Meflat/Face_0010_Smile.pose": {
+        "name": "Face_0010_Smile.pose",
+        "path": "../../Meflat/Face_0010_Smile.pose",
+        "type": ".pose",
+        "folder": "../../Meflat",
+        "category": "Meflat",
+        "modified": 1789919046.8180132,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../Meflat/Hand_0010_Default.pose": {
+        "name": "Hand_0010_Default.pose",
+        "path": "../../Meflat/Hand_0010_Default.pose",
+        "type": ".pose",
+        "folder": "../../Meflat",
+        "category": "Meflat",
+        "modified": 1789908290.7123854,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../Trash": {
+        "name": "Trash",
+        "path": "../../Trash",
+        "type": "Folder",
+        "folder": "../..",
+        "category": "0010_pose",
+        "modified": 1781327337.7409906,
+        "__class__": "studiolibrary.folderitem.FolderItem",
+        "icon": "trash.svg"
+    },
+    "../../Trash/A_0010 (2).pose": {
+        "name": "A_0010 (2).pose",
+        "path": "../../Trash/A_0010 (2).pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1781272417.426883,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../Trash/A_0010.pose": {
+        "name": "A_0010.pose",
+        "path": "../../Trash/A_0010.pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1781271764.08591,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../Trash/A_0020 (2).pose": {
+        "name": "A_0020 (2).pose",
+        "path": "../../Trash/A_0020 (2).pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1781272744.7092123,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../Trash/A_0020.pose": {
+        "name": "A_0020.pose",
+        "path": "../../Trash/A_0020.pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1781272651.9070103,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../Trash/HandA_0010.pose": {
+        "name": "HandA_0010.pose",
+        "path": "../../Trash/HandA_0010.pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1781272436.7948852,
+        "__class__": "studiolibrary.libraryitem.LibraryItem"
+    },
+    "../../Trash/HandA_0020.pose": {
+        "name": "HandA_0020.pose",
+        "path": "../../Trash/HandA_0020.pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1777638500.6334636,
+        "__class__": "studiolibrary.libraryitem.LibraryItem"
+    },
+    "../../Trash/HandA_0030.pose": {
+        "name": "HandA_0030.pose",
+        "path": "../../Trash/HandA_0030.pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1781327337.8020039,
+        "__class__": "studiolibrary.libraryitem.LibraryItem"
+    },
+    "../../Trash/HandA_0035.pose": {
+        "name": "HandA_0035.pose",
+        "path": "../../Trash/HandA_0035.pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1781789152.8392124,
+        "__class__": "studiolibrary.libraryitem.LibraryItem"
+    },
+    "../../Trash/HandA_0035_Test.pose": {
+        "name": "HandA_0035_Test.pose",
+        "path": "../../Trash/HandA_0035_Test.pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1793154724.2659357,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../Trash/HandA_0090.pose": {
+        "name": "HandA_0090.pose",
+        "path": "../../Trash/HandA_0090.pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1793257894.7899234,
+        "__class__": "studiolibrary.libraryitem.LibraryItem"
+    },
+    "../../Trash/HandL_0025.pose": {
+        "name": "HandL_0025.pose",
+        "path": "../../Trash/HandL_0025.pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1781282491.083695,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../Trash/HandL_0030.pose": {
+        "name": "HandL_0030.pose",
+        "path": "../../Trash/HandL_0030.pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1781282911.038129,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../Trash/HandR_0040.pose": {
+        "name": "HandR_0040.pose",
+        "path": "../../Trash/HandR_0040.pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1781274436.4272087,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../Trash/dd.pose": {
+        "name": "dd.pose",
+        "path": "../../Trash/dd.pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1777639677.3518,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../Trash/mirror_test.mirror": {
+        "name": "mirror_test.mirror",
+        "path": "../../Trash/mirror_test.mirror",
+        "type": ".mirror",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1777640841.1342683,
+        "__class__": "studiolibrarymaya.mirroritem.MirrorItem"
+    },
+    "../../Trash/set_test_01 (2).set": {
+        "name": "set_test_01 (2).set",
+        "path": "../../Trash/set_test_01 (2).set",
+        "type": ".set",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1777640100.7664685,
+        "__class__": "studiolibrarymaya.setsitem.SetsItem"
+    },
+    "../../Trash/set_test_01.set": {
+        "name": "set_test_01.set",
+        "path": "../../Trash/set_test_01.set",
+        "type": ".set",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1777639868.6397178,
+        "__class__": "studiolibrarymaya.setsitem.SetsItem"
+    },
+    "../../Trash/sl_set_01.pose": {
+        "name": "sl_set_01.pose",
+        "path": "../../Trash/sl_set_01.pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1777639708.9504871,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../Trash/test_face_01 (2).pose": {
+        "name": "test_face_01 (2).pose",
+        "path": "../../Trash/test_face_01 (2).pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1777637373.7491243,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../Trash/test_face_01.pose": {
+        "name": "test_face_01.pose",
+        "path": "../../Trash/test_face_01.pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1777637315.7974467,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../Trash/test_hand_01.pose": {
+        "name": "test_hand_01.pose",
+        "path": "../../Trash/test_hand_01.pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1777638079.2366133,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    }
+}

@@ -1,0 +1,595 @@
+{
+  "metadata": {
+    "left": "_l_",
+    "right": "_r_",
+    "mirrorPlane": [
+      -1,
+      1,
+      1
+    ],
+    "description": "",
+    "user": "user",
+    "ctime": "1777642753",
+    "version": "1.0.0",
+    "references": [
+      {
+        "filename": "G:/D_link_dir/02_Maya_Src_Rig_JUN/02_Cage/Cage_48.mb",
+        "unresolved": "G:/D_link_dir/02_Maya_Src_Rig_JUN/02_Cage/Cage_48.mb",
+        "namespace": "base",
+        "node": "baseRN"
+      }
+    ],
+    "mayaVersion": "2023",
+    "mayaSceneFile": ""
+  }
+,
+  "objects": {
+    "base:CH_Lttle_intermediate_r_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_Index_proxinal_l_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_Ring_intermediate_r_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_n_Neck_02_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "base:CH_n_Spine_06_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "base:CH_r_Wrist_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_l_eyeAim_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "base:CH_l_FootFK_xx_ctl": {
+      "mirrorAxis": [
+        1,
+        -1,
+        1
+      ]
+    },
+    "base:CH_Ring_proximal_l_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_Thumb_intermediate_r_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_Middle_intermideate_r_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_n_Spine_04_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "base:CH_r_ArmOptions_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "base:CH_Index_distal_l_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_Thumb_distal_r_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_Lttle_proximal_l_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_n_Spine_03_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "base:CH_r_FootOption_ctl": {
+      "mirrorAxis": [
+        1,
+        -1,
+        1
+      ]
+    },
+    "base:CH_Middle_metacarpal_r_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_r_eyeAim_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "base:CH_Middle_proximal_l_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_Lttle_metacarpal_l_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_Index_proxinal_r_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_n_Head_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "base:CH_Index_distal_r_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_Thumb_distal_l_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_r_Thigh_xx_ctl": {
+      "mirrorAxis": [
+        1,
+        -1,
+        1
+      ]
+    },
+    "base:CH_n_Spine_07_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "base:CH_l_ankleFK_xx_ctl": {
+      "mirrorAxis": [
+        1,
+        -1,
+        1
+      ]
+    },
+    "base:CH_Middle_distal_r_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_Thumb_proxinal_l_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_Lttle_distal_r_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_n_Global_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "base:CH_n_eyeAll_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "base:CH_r_ankleFK_xx_ctl": {
+      "mirrorAxis": [
+        1,
+        -1,
+        1
+      ]
+    },
+    "base:CH_n_Root_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "base:CH_r_FootFK_xx_ctl": {
+      "mirrorAxis": [
+        1,
+        -1,
+        1
+      ]
+    },
+    "base:CH_Middle_intermideate_l_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_l_ArmOptions_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "base:CH_l_LowerLegFK_xx_ctl": {
+      "mirrorAxis": [
+        1,
+        -1,
+        1
+      ]
+    },
+    "base:CH_Lttle_metacarpal_r_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_Index_metacarpal_l_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_Thumb_proxinal_r_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_l_WristFK_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_Lttle_distal_l_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_l_UpperLegFK_xx_ctl": {
+      "mirrorAxis": [
+        1,
+        -1,
+        1
+      ]
+    },
+    "base:CH_Index_intermediate_r_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_l_LowerArm_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_n_Spine_05_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "base:CH_r_UpperArm_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_Ring_distal_r_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_l_Thigh_xx_ctl": {
+      "mirrorAxis": [
+        1,
+        -1,
+        1
+      ]
+    },
+    "base:CH_Thumb_intermediate_l_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_Lttle_proximal_r_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_n_MainGlobal_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "base:CH_n_Hip_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "base:CH_Index_metacarpal_r_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_Middle_metacarpal_l_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_Ring_metacarpal_l_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_n_Neck_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "base:CH_l_Wrist_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_n_Spine_01_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "base:CH_r_Shoulder_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_l_FootOption_ctl": {
+      "mirrorAxis": [
+        1,
+        -1,
+        1
+      ]
+    },
+    "base:CH_Middle_proximal_r_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_r_WristFK_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_Index_intermediate_l_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_l_Shoulder_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_n_Spine_02_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "base:CH_l_UpperArm_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_Ring_proximal_r_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_Lttle_intermediate_l_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_r_LowerLegFK_xx_ctl": {
+      "mirrorAxis": [
+        1,
+        -1,
+        1
+      ]
+    },
+    "base:CH_Ring_distal_l_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_r_LowerArm_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_Ring_metacarpal_r_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_Middle_distal_l_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_n_Head_02_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "base:CH_Ring_intermediate_l_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "base:CH_n_MainRoot_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "base:CH_r_UpperLegFK_xx_ctl": {
+      "mirrorAxis": [
+        1,
+        -1,
+        1
+      ]
+    }
+  }
+}

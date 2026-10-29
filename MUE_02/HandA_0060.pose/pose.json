@@ -1,0 +1,500 @@
+{
+  "metadata": {
+    "description": "",
+    "user": "user",
+    "ctime": "1782917955",
+    "version": "1.0.0",
+    "references": [
+      {
+        "filename": "G:/D_link_dir/02_Maya_Src_Rig_JUN/02_Cage/003_branch_01_MUE/Cage_46_branch_05.mb{1}",
+        "unresolved": "G:/D_link_dir/02_Maya_Src_Rig_JUN/02_Cage/003_branch_01_MUE/Cage_46_branch_05.mb",
+        "namespace": "cage",
+        "node": "A:RITZ:cageRN"
+      }
+    ],
+    "mayaVersion": "2023",
+    "mayaSceneFile": "E:/000_PJ/0023_MUE_original/00_04_02_ANI_00_PJ_010/scenes/3040_cleanup_GN_RITZ/0010_cleanUp_GN_RITZ_03.mb"
+  },
+  "objects": {
+    "A:RITZ:cage:CH_Thumb_proxinal_r_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 9.165684834096382
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Thumb_intermediate_r_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 13.918637525192846
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Thumb_distal_r_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 10.901407902507547
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Index_proxinal_r_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -9.547551027219466
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 7.758432138594669
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 7.756112683095225
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Index_intermediate_r_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -0.003978368656754493
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Index_distal_r_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 11.156760767018126
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Middle_proximal_r_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -1.3244612086091236
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 6.086833817656062
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -3.212638166022775
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Middle_intermideate_r_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -0.2094774372368016
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Middle_distal_r_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 10.787457187262879
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Ring_proximal_r_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 2.8068904012141727
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -8.307944149523543
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -31.96138552253169
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Ring_distal_r_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 3.78539715863369
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Ring_intermediate_r_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -10.90110699909016
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Lttle_proximal_r_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 13.289247039223461
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -18.950061207239646
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -44.93883203263197
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Lttle_intermediate_r_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -14.690249016791485
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Lttle_distal_r_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 2.492420219777349
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Thumb_intermediate_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 13.918637525192846
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Thumb_proxinal_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 9.165684834096382
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Thumb_distal_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 10.901407902507547
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Index_proxinal_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -9.547551027219466
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 7.758432138594669
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 7.756112683095225
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Index_intermediate_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -0.003978368656754493
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Index_distal_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 11.156760767018126
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Middle_proximal_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -1.3244612086091236
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 6.086833817656062
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -3.212638166022775
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Middle_distal_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 10.787457187262879
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Middle_intermideate_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -0.2094774372368016
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Ring_proximal_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 2.8068904012141727
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -8.307944149523543
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -31.96138552253169
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Ring_intermediate_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -10.90110699909016
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Ring_distal_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 3.78539715863369
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Lttle_intermediate_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -14.690249016791485
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Lttle_proximal_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 13.28924703922346
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -18.950061207239646
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -44.93883203263197
+        }
+      }
+    },
+    "A:RITZ:cage:CH_Lttle_distal_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 2.492420219777349
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,500 @@
+{
+  "metadata": {
+    "description": "",
+    "user": "user",
+    "ctime": "1785155997",
+    "version": "1.0.0",
+    "references": [
+      {
+        "filename": "E:/000_PJ/0023_MUE_original/00_03_01_RIG_01_PJ/scenes/0000_Cage/Cage_46_branch_05.mb",
+        "unresolved": "E:/000_PJ/0023_MUE_original/00_03_01_RIG_01_PJ/scenes/0000_Cage/Cage_46_branch_05.mb",
+        "namespace": "cage",
+        "node": "A:ZIHAN:cageRN"
+      }
+    ],
+    "mayaVersion": "2023",
+    "mayaSceneFile": "E:/000_PJ/0023_MUE_original/00_04_02_ANI_00_PJ_010/scenes/4010_cleanup_WU_ZIHAN/A0010_ZIHAN_WU_0060.mb"
+  },
+  "objects": {
+    "A:ZIHAN:cage:CH_Thumb_distal_l_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -72.68604723600266
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Ring_intermediate_l_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -102.05085237069508
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Index_distal_l_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 5.9400100975780346
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Middle_proximal_l_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -6.272108431661408
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Ring_proximal_l_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -8.498558056453659
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -4.387381936333243
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -93.48686197954619
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Index_proxinal_l_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 9.045437940926192
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -22.124111671574088
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.16748241937957345
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Lttle_proximal_l_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -18.946153420333374
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -13.008426688069806
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -90.93610270457715
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Middle_intermideate_l_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 5.72753088229361
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Lttle_intermediate_l_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -104.19159882440411
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Ring_distal_l_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -96.71655871114149
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Thumb_intermediate_l_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.01867250511414874
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -4.457811636910842
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -31.585301815345908
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Middle_distal_l_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 5.289232533877758
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Lttle_distal_l_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -96.71655871114149
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Thumb_proxinal_l_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 3.1371712143802464
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 4.037339573357097
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -0.7603942438761588
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Index_intermediate_l_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 6.298530333097692
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Middle_proximal_r_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -6.272108431661408
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Middle_distal_r_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 5.289232533877757
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Lttle_distal_r_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -93.78942173658486
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Thumb_proxinal_r_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 1.5430378301307148
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 6.65287053864267
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 5.926777801192415
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Index_proxinal_r_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 8.13627619486276
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -18.22198885219421
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 1.2001295413777806
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Middle_intermideate_r_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 5.727530882293611
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Ring_distal_r_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -73.4442033553208
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Index_intermediate_r_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 6.298530333097692
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Lttle_proximal_r_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -11.495217184663433
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -17.227084362807823
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -87.56715347361234
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Thumb_distal_r_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -72.28005970552753
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Ring_intermediate_r_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -94.23755602950247
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Ring_proximal_r_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -5.938523186674416
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -3.401334322734357
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -89.02092718659121
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Lttle_intermediate_r_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -93.78942173658486
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Index_distal_r_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 5.9400100975780346
+        }
+      }
+    },
+    "A:ZIHAN:cage:CH_Thumb_intermediate_r_xx_ctl": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -23.07712317673336
+        }
+      }
+    }
+  }
+}

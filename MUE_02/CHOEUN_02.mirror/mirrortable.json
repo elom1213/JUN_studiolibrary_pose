@@ -1,0 +1,1106 @@
+{
+  "metadata": {
+    "left": "_L",
+    "right": "_R",
+    "mirrorPlane": [
+      -1,
+      1,
+      1
+    ],
+    "description": "",
+    "user": "user",
+    "ctime": "1781273865",
+    "version": "1.0.0",
+    "references": [
+      {
+        "filename": "G:/D_link_dir/02_Maya_Src_Rig_JUN/02_Cage/003_branch_01_MUE/Cage_46_branch_05.mb",
+        "unresolved": "G:/D_link_dir/02_Maya_Src_Rig_JUN/02_Cage/003_branch_01_MUE/Cage_46_branch_05.mb",
+        "namespace": "cage",
+        "node": "cageRN"
+      }
+    ],
+    "mayaVersion": "2023",
+    "mayaSceneFile": "E:/000_PJ/0023_MUE_original/00_03_01_RIG_01_PJ/scenes/0205_CHOEUN/1010_CHOEUN_ctl_GN_02.mb"
+  }
+,
+  "objects": {
+    "cage:CH_Ring_distal_L_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "cage:CH_Lttle_metacarpal_L_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_Lttle_proximal_L_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_Lttle_distal_L_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_Lttle_intermediate_L_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_l_ArmIK_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_l_ArmIK_02_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:r_eyelid_Dw_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:r_eyelid_Up_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:l_eyelid_Up_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:l_eyeball_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:l_eyelid_Dw_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:r_eyeball_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:BS_eyebrowLeft_inn_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:BS_eyebrowRight_inn_1_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:BS_eyebrowLeft_out_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_Thumb_intermediate_L_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "cage:CH_Thumb_proxinal_L_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "cage:CH_Thumb_distal_L_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "cage:CH_Index_proxinal_L_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "cage:CH_Index_intermediate_L_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "cage:CH_Index_metacarpal_L_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "cage:CH_Index_distal_L_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "cage:CH_Middle_metacarpal_L_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "cage:CH_Middle_proximal_L_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "cage:CH_Middle_intermideate_L_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "cage:CH_Middle_distal_L_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "cage:CH_Ring_proximal_L_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "cage:CH_Ring_metacarpal_L_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "cage:CH_Ring_intermediate_L_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "cage:CH_l_ArmOptions_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_n_faical_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:BS_eyebrowRight_out_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:BS_eyebrowInnerUp_inn_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:l_eyeWide_Up_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:l_cheekSquint_Dw_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:r_noseSneer_Dw_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:r_eyeWide_Up_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:l_noseSneerLeft_Dw_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:r_cheekSquintRight_Dw_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:BS_lipLeft_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:BS_lipRight_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:BS_lipTop_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:BS_lipLow_leSide_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:BS_lipTop_leSide_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:BS_lipLow_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:BS_lipTop_riSide_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_n_MainGlobal_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_n_Global_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_l_ArmPole_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_r_ArmPole_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_r_LegPole_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_l_LegPole_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_n_MainRoot_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:c_mouthClose_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:c_jaw_forward_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:BS_mouthPucker_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:c_tongueOut_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:BS_mouthFunnel_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:c_jaw_mouthShrugLower_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:c_jaw_mouthShrugUpper_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_n_Spine_01_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_n_Root_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_n_Spine_03_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_n_Spine_02_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_n_Spine_05_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_n_Spine_06_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_n_Spine_04_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_n_Spine_07_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_n_Hip_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_l_Thigh_xx_ctl": {
+      "mirrorAxis": [
+        1,
+        -1,
+        1
+      ]
+    },
+    "cage:CH_l_LowerLegFK_xx_ctl": {
+      "mirrorAxis": [
+        1,
+        -1,
+        1
+      ]
+    },
+    "cage:CH_l_UpperLegFK_xx_ctl": {
+      "mirrorAxis": [
+        1,
+        -1,
+        1
+      ]
+    },
+    "cage:CH_l_ankleFK_xx_ctl": {
+      "mirrorAxis": [
+        1,
+        -1,
+        1
+      ]
+    },
+    "cage:CH_l_FootFK_xx_ctl": {
+      "mirrorAxis": [
+        1,
+        -1,
+        1
+      ]
+    },
+    "cage:CH_r_Thigh_xx_ctl": {
+      "mirrorAxis": [
+        1,
+        -1,
+        1
+      ]
+    },
+    "cage:CH_r_UpperLegFK_xx_ctl": {
+      "mirrorAxis": [
+        1,
+        -1,
+        1
+      ]
+    },
+    "cage:CH_r_LowerLegFK_xx_ctl": {
+      "mirrorAxis": [
+        1,
+        -1,
+        1
+      ]
+    },
+    "cage:CH_r_ankleFK_xx_ctl": {
+      "mirrorAxis": [
+        1,
+        -1,
+        1
+      ]
+    },
+    "cage:CH_r_FootFK_xx_ctl": {
+      "mirrorAxis": [
+        1,
+        -1,
+        1
+      ]
+    },
+    "cage:BS_lipLow_riSide_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:BS_checkPuff_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:BS_lipTop_leOut_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:BS_lipLow_leOut_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:BS_lipTop_riOut_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:BS_lipLow_riOut_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:c_jaw_rot_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_l_Shoulder_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_l_UpperArm_02_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_l_UpperArm_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_l_LowerArm_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_l_WristFK_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_r_Shoulder_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_r_UpperArm_02_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_r_UpperArm_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_r_LowerArm_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_r_WristFK_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_n_Neck_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_n_Head_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_n_Neck_02_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_n_Head_02_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_n_eyeAll_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_l_eyeAim_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_r_eyeAim_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_r_foot_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_r_foot_02_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_r_FootInTilt_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_r_FootOutTilt_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:ring:CH_r_footFloor_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_r_toe_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:ring:CH_r_ToeBall_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:ring:CH_r_Heel_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:ring:CH_r_twistBall_02_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:ring:CH_r_footFloorPos_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_r_FootOption_ctl": {
+      "mirrorAxis": [
+        1,
+        -1,
+        1
+      ]
+    },
+    "cage:CH_l_foot_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_l_foot_02_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_l_FootOutTilt_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:ring:CH_l_footFloor_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_l_FootInTilt_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:ring:CH_l_ToeBall_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:ring:CH_l_Heel_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_l_toe_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:ring:CH_l_twistBall_02_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:ring:CH_l_footFloorPos_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_l_FootOption_ctl": {
+      "mirrorAxis": [
+        1,
+        -1,
+        1
+      ]
+    },
+    "cage:CH_r_Wrist_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_Thumb_intermediate_R_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "cage:CH_Thumb_proxinal_R_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "cage:CH_Thumb_distal_R_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "cage:CH_Index_metacarpal_R_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "cage:CH_Index_intermediate_R_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "cage:CH_Index_proxinal_R_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "cage:CH_Index_distal_R_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "cage:CH_Middle_metacarpal_R_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "cage:CH_Middle_distal_R_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "cage:CH_Middle_intermideate_R_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "cage:CH_Middle_proximal_R_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "cage:CH_Ring_metacarpal_R_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_Ring_proximal_R_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_Ring_distal_R_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_Ring_intermediate_R_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_Lttle_proximal_R_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_Lttle_metacarpal_R_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_Lttle_intermediate_R_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_Lttle_distal_R_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_r_ArmIK_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_r_ArmIK_02_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_r_ArmOptions_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_l_Wrist_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_l_elbow_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_r_elbow_xx_ctl": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "cage:CH_l_knee_xx_ctl": {
+      "mirrorAxis": [
+        1,
+        -1,
+        1
+      ]
+    },
+    "cage:CH_r_knee_xx_ctl": {
+      "mirrorAxis": [
+        1,
+        -1,
+        1
+      ]
+    }
+  }
+}

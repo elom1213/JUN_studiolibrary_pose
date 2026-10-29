@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "description": "",
+    "user": "user",
+    "ctime": "1777640100",
+    "version": "1.0.0",
+    "references": [
+      {
+        "filename": "G:/D_link_dir/02_Maya_Src_Rig_JUN/02_Cage/003_branch_01_MUE/Cage_46_branch_04.mb",
+        "unresolved": "G:/D_link_dir/02_Maya_Src_Rig_JUN/02_Cage/003_branch_01_MUE/Cage_46_branch_04.mb",
+        "namespace": "cage",
+        "node": "O2_IVI:cageRN"
+      }
+    ],
+    "mayaVersion": "2023",
+    "mayaSceneFile": "E:/000_PJ/0023_MUE_original/00_04_02_ANI_00_PJ_010/scenes/1020_cleanup_IVI/0010_cleanUp_IVI_09.mb"
+  }
+,
+  "objects": {
+    "O2_IVI:cage:CH_Index_distal_R_xx_ctl": {},
+    "O2_IVI:cage:CH_Index_intermediate_R_xx_ctl": {},
+    "O2_IVI:cage:CH_Index_proxinal_R_xx_ctl": {},
+    "O2_IVI:cage:CH_Middle_proximal_R_xx_ctl": {},
+    "O2_IVI:cage:CH_Middle_distal_R_xx_ctl": {},
+    "O2_IVI:cage:CH_Thumb_distal_R_xx_ctl": {},
+    "O2_IVI:cage:CH_Middle_intermideate_R_xx_ctl": {},
+    "O2_IVI:cage:CH_Thumb_intermediate_R_xx_ctl": {},
+    "O2_IVI:cage:CH_Thumb_proxinal_R_xx_ctl": {}
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "description": "",
+    "user": "user",
+    "ctime": "1777638079",
+    "version": "1.0.0",
+    "references": [
+      {
+        "filename": "G:/D_link_dir/02_Maya_Src_Rig_JUN/02_Cage/003_branch_01_MUE/Cage_46_branch_03.mb",
+        "unresolved": "G:/D_link_dir/02_Maya_Src_Rig_JUN/02_Cage/003_branch_01_MUE/Cage_46_branch_03.mb",
+        "namespace": "cage",
+        "node": "O1_ZHAN:cageRN"
+      }
+    ],
+    "mayaVersion": "2023",
+    "mayaSceneFile": "E:/000_PJ/0023_MUE_original/00_04_02_ANI_00_PJ_010/scenes/1010_cleanup_ZIHAN/0010_cleanUp_ZHAN_13.mb"
+  }
+,
+  "objects": {
+    "O1_ZHAN:cage:CH_r_WristFK_xx_ctl": {
+      "attrs": {
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 16.44747281880943
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": -0.17342740762231998
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -0.00022721696523275015
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -30.52780964314874
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.24409085256458285
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.10361793434255792
+        }
+      }
+    }
+  }
+}

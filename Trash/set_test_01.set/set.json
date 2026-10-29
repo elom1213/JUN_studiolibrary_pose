@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "description": "",
+    "user": "user",
+    "ctime": "1777639868",
+    "version": "1.0.0",
+    "references": [
+      {
+        "filename": "G:/D_link_dir/02_Maya_Src_Rig_JUN/02_Cage/003_branch_01_MUE/Cage_46_branch_04.mb",
+        "unresolved": "G:/D_link_dir/02_Maya_Src_Rig_JUN/02_Cage/003_branch_01_MUE/Cage_46_branch_04.mb",
+        "namespace": "cage",
+        "node": "O4_RITZ:cageRN"
+      }
+    ],
+    "mayaVersion": "2023",
+    "mayaSceneFile": "E:/000_PJ/0023_MUE_original/00_04_02_ANI_00_PJ_010/scenes/1040_cleanup_RITZ/0010_cleanUp_RITZ_08.mb"
+  }
+,
+  "objects": {
+    "O4_RITZ:cage:CH_Thumb_proxinal_L_xx_ctl": {},
+    "O4_RITZ:cage:CH_Thumb_distal_L_xx_ctl": {},
+    "O4_RITZ:cage:CH_Thumb_intermediate_L_xx_ctl": {},
+    "O4_RITZ:cage:CH_Index_proxinal_L_xx_ctl": {},
+    "O4_RITZ:cage:CH_Index_distal_L_xx_ctl": {},
+    "O4_RITZ:cage:CH_Index_intermediate_L_xx_ctl": {},
+    "O4_RITZ:cage:CH_Middle_proximal_L_xx_ctl": {},
+    "O4_RITZ:cage:CH_Middle_distal_L_xx_ctl": {},
+    "O4_RITZ:cage:CH_Middle_intermideate_L_xx_ctl": {}
+  }
+}
