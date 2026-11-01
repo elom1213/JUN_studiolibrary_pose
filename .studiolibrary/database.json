@@ -5,7 +5,7 @@
         "type": "Folder",
         "folder": "../..",
         "category": "0010_pose",
-        "modified": 1793155101.8843567,
+        "modified": 1793274400.4093952,
         "__class__": "studiolibrary.folderitem.FolderItem"
     },
     "../../MUE_01/CHOEUN.mirror": {
@@ -14,7 +14,7 @@
         "type": ".mirror",
         "folder": "../../MUE_01",
         "category": "MUE_01",
-        "modified": 1781273840.178055,
+        "modified": 1793274400.3783865,
         "__class__": "studiolibrarymaya.mirroritem.MirrorItem"
     },
     "../../MUE_01/CHOEUN_02.mirror": {
@@ -23,7 +23,7 @@
         "type": ".mirror",
         "folder": "../../MUE_01",
         "category": "MUE_01",
-        "modified": 1781273865.8867664,
+        "modified": 1793274400.379387,
         "__class__": "studiolibrarymaya.mirroritem.MirrorItem"
     },
     "../../MUE_01/HandA_0010.pose": {
@@ -32,7 +32,7 @@
         "type": ".pose",
         "folder": "../../MUE_01",
         "category": "MUE_01",
-        "modified": 1781272436.7948852,
+        "modified": 1793274400.380387,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_01/HandA_0020.pose": {
@@ -41,7 +41,7 @@
         "type": ".pose",
         "folder": "../../MUE_01",
         "category": "MUE_01",
-        "modified": 1777638500.6334636,
+        "modified": 1793274400.380387,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_01/HandA_0025.pose": {
@@ -50,7 +50,7 @@
         "type": ".pose",
         "folder": "../../MUE_01",
         "category": "MUE_01",
-        "modified": 1781318850.0197425,
+        "modified": 1793274400.3813868,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_01/HandA_0030.pose": {
@@ -59,7 +59,7 @@
         "type": ".pose",
         "folder": "../../MUE_01",
         "category": "MUE_01",
-        "modified": 1781327337.8020039,
+        "modified": 1793274400.3983934,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_01/HandA_0035.pose": {
@@ -68,7 +68,7 @@
         "type": ".pose",
         "folder": "../../MUE_01",
         "category": "MUE_01",
-        "modified": 1781789152.8392124,
+        "modified": 1793274400.3993936,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_01/HandA_0035_Test.pose": {
@@ -77,7 +77,7 @@
         "type": ".pose",
         "folder": "../../MUE_01",
         "category": "MUE_01",
-        "modified": 1793154724.2659357,
+        "modified": 1793274400.4003942,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_01/HandA_0040.pose": {
@@ -86,7 +86,7 @@
         "type": ".pose",
         "folder": "../../MUE_01",
         "category": "MUE_01",
-        "modified": 1781330803.8215451,
+        "modified": 1793274400.401394,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_01/HandA_0050.pose": {
@@ -95,7 +95,7 @@
         "type": ".pose",
         "folder": "../../MUE_01",
         "category": "MUE_01",
-        "modified": 1781702631.056824,
+        "modified": 1793274400.4023945,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_01/HandA_0060.pose": {
@@ -104,7 +104,7 @@
         "type": ".pose",
         "folder": "../../MUE_01",
         "category": "MUE_01",
-        "modified": 1782917955.4418373,
+        "modified": 1793274400.4033947,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_01/HandA_0070.pose": {
@@ -113,7 +113,7 @@
         "type": ".pose",
         "folder": "../../MUE_01",
         "category": "MUE_01",
-        "modified": 1785155997.808964,
+        "modified": 1793274400.404395,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_01/HandA_0080.pose": {
@@ -122,7 +122,7 @@
         "type": ".pose",
         "folder": "../../MUE_01",
         "category": "MUE_01",
-        "modified": 1785332392.9299736,
+        "modified": 1793274400.404395,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_01/HandL_0020.pose": {
@@ -131,7 +131,7 @@
         "type": ".pose",
         "folder": "../../MUE_01",
         "category": "MUE_01",
-        "modified": 1781274229.9677286,
+        "modified": 1793274400.4053943,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_01/HandR_0020.pose": {
@@ -140,7 +140,7 @@
         "type": ".pose",
         "folder": "../../MUE_01",
         "category": "MUE_01",
-        "modified": 1777638099.2712579,
+        "modified": 1793274400.406395,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_01/HandR_0025.pose": {
@@ -149,7 +149,7 @@
         "type": ".pose",
         "folder": "../../MUE_01",
         "category": "MUE_01",
-        "modified": 1781276245.2710073,
+        "modified": 1793274400.406395,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_01/HandR_0030.pose": {
@@ -158,7 +158,7 @@
         "type": ".pose",
         "folder": "../../MUE_01",
         "category": "MUE_01",
-        "modified": 1781275858.9284556,
+        "modified": 1793274400.4073954,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_01/HandR_0040.pose": {
@@ -167,7 +167,7 @@
         "type": ".pose",
         "folder": "../../MUE_01",
         "category": "MUE_01",
-        "modified": 1781275896.3240123,
+        "modified": 1793274400.4083955,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_01/HandR_0050.pose": {
@@ -176,7 +176,7 @@
         "type": ".pose",
         "folder": "../../MUE_01",
         "category": "MUE_01",
-        "modified": 1781347220.187967,
+        "modified": 1793274400.4093952,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_01/mirror_test.mirror": {
@@ -185,7 +185,7 @@
         "type": ".mirror",
         "folder": "../../MUE_01",
         "category": "MUE_01",
-        "modified": 1777642753.5847886,
+        "modified": 1793274400.4093952,
         "__class__": "studiolibrarymaya.mirroritem.MirrorItem"
     },
     "../../MUE_02": {
@@ -194,7 +194,7 @@
         "type": "Folder",
         "folder": "../..",
         "category": "0010_pose",
-        "modified": 1793155101.8843567,
+        "modified": 1793274400.4263997,
         "__class__": "studiolibrary.folderitem.FolderItem"
     },
     "../../MUE_02/CHOEUN.mirror": {
@@ -203,7 +203,7 @@
         "type": ".mirror",
         "folder": "../../MUE_02",
         "category": "MUE_02",
-        "modified": 1781273840.178055,
+        "modified": 1793274400.4103959,
         "__class__": "studiolibrarymaya.mirroritem.MirrorItem"
     },
     "../../MUE_02/CHOEUN_02.mirror": {
@@ -212,7 +212,7 @@
         "type": ".mirror",
         "folder": "../../MUE_02",
         "category": "MUE_02",
-        "modified": 1781273865.8867664,
+        "modified": 1793274400.4113963,
         "__class__": "studiolibrarymaya.mirroritem.MirrorItem"
     },
     "../../MUE_02/HandA_0010.pose": {
@@ -221,7 +221,7 @@
         "type": ".pose",
         "folder": "../../MUE_02",
         "category": "MUE_02",
-        "modified": 1793167661.9664853,
+        "modified": 1793274400.4123962,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_02/HandA_0020.pose": {
@@ -230,7 +230,7 @@
         "type": ".pose",
         "folder": "../../MUE_02",
         "category": "MUE_02",
-        "modified": 1793158502.0611224,
+        "modified": 1793274400.4133961,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_02/HandA_0025.pose": {
@@ -239,7 +239,7 @@
         "type": ".pose",
         "folder": "../../MUE_02",
         "category": "MUE_02",
-        "modified": 1781318850.0197425,
+        "modified": 1793274400.414397,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_02/HandA_0030.pose": {
@@ -248,7 +248,7 @@
         "type": ".pose",
         "folder": "../../MUE_02",
         "category": "MUE_02",
-        "modified": 1793158661.7172353,
+        "modified": 1793274400.414397,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_02/HandA_0035.pose": {
@@ -257,7 +257,7 @@
         "type": ".pose",
         "folder": "../../MUE_02",
         "category": "MUE_02",
-        "modified": 1793159480.4001741,
+        "modified": 1793274400.4163973,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_02/HandA_0040.pose": {
@@ -266,7 +266,7 @@
         "type": ".pose",
         "folder": "../../MUE_02",
         "category": "MUE_02",
-        "modified": 1781330803.8215451,
+        "modified": 1793274400.4163973,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_02/HandA_0050.pose": {
@@ -275,7 +275,7 @@
         "type": ".pose",
         "folder": "../../MUE_02",
         "category": "MUE_02",
-        "modified": 1781702631.056824,
+        "modified": 1793506116.1713977,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_02/HandA_0060.pose": {
@@ -284,7 +284,7 @@
         "type": ".pose",
         "folder": "../../MUE_02",
         "category": "MUE_02",
-        "modified": 1782917955.4418373,
+        "modified": 1793274400.4183977,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_02/HandA_0070.pose": {
@@ -293,7 +293,7 @@
         "type": ".pose",
         "folder": "../../MUE_02",
         "category": "MUE_02",
-        "modified": 1785155997.808964,
+        "modified": 1793274400.4193974,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_02/HandA_0080.pose": {
@@ -302,7 +302,7 @@
         "type": ".pose",
         "folder": "../../MUE_02",
         "category": "MUE_02",
-        "modified": 1785332392.9299736,
+        "modified": 1793274400.4203982,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_02/HandA_0090.pose": {
@@ -311,7 +311,7 @@
         "type": ".pose",
         "folder": "../../MUE_02",
         "category": "MUE_02",
-        "modified": 1793257982.5013444,
+        "modified": 1793526075.0573623,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_02/HandA_0100.pose": {
@@ -320,7 +320,7 @@
         "type": ".pose",
         "folder": "../../MUE_02",
         "category": "MUE_02",
-        "modified": 1793260516.7924886,
+        "modified": 1793274400.4213986,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_02/HandL_0020.pose": {
@@ -329,7 +329,7 @@
         "type": ".pose",
         "folder": "../../MUE_02",
         "category": "MUE_02",
-        "modified": 1781274229.9677286,
+        "modified": 1793274400.422398,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_02/HandR_0020.pose": {
@@ -338,7 +338,7 @@
         "type": ".pose",
         "folder": "../../MUE_02",
         "category": "MUE_02",
-        "modified": 1777638099.2712579,
+        "modified": 1793274400.423399,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_02/HandR_0025.pose": {
@@ -347,7 +347,7 @@
         "type": ".pose",
         "folder": "../../MUE_02",
         "category": "MUE_02",
-        "modified": 1781276245.2710073,
+        "modified": 1793274400.423399,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_02/HandR_0030.pose": {
@@ -356,7 +356,7 @@
         "type": ".pose",
         "folder": "../../MUE_02",
         "category": "MUE_02",
-        "modified": 1781275858.9284556,
+        "modified": 1793274400.4243996,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_02/HandR_0040.pose": {
@@ -365,7 +365,7 @@
         "type": ".pose",
         "folder": "../../MUE_02",
         "category": "MUE_02",
-        "modified": 1781275896.3240123,
+        "modified": 1793274400.4253993,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_02/HandR_0050.pose": {
@@ -374,7 +374,7 @@
         "type": ".pose",
         "folder": "../../MUE_02",
         "category": "MUE_02",
-        "modified": 1781347220.187967,
+        "modified": 1793274400.4253993,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../MUE_02/mirror_test.mirror": {
@@ -383,7 +383,7 @@
         "type": ".mirror",
         "folder": "../../MUE_02",
         "category": "MUE_02",
-        "modified": 1777642753.5847886,
+        "modified": 1793274400.4263997,
         "__class__": "studiolibrarymaya.mirroritem.MirrorItem"
     },
     "../../Meflat": {
@@ -392,7 +392,7 @@
         "type": "Folder",
         "folder": "../..",
         "category": "0010_pose",
-        "modified": 1789919046.819014,
+        "modified": 1793274400.4284003,
         "__class__": "studiolibrary.folderitem.FolderItem"
     },
     "../../Meflat/Face_0010_Smile.pose": {
@@ -401,7 +401,7 @@
         "type": ".pose",
         "folder": "../../Meflat",
         "category": "Meflat",
-        "modified": 1789919046.8180132,
+        "modified": 1793274400.4274,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../Meflat/Hand_0010_Default.pose": {
@@ -410,7 +410,7 @@
         "type": ".pose",
         "folder": "../../Meflat",
         "category": "Meflat",
-        "modified": 1789908290.7123854,
+        "modified": 1793274400.4284003,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../Trash": {
@@ -419,7 +419,7 @@
         "type": "Folder",
         "folder": "../..",
         "category": "0010_pose",
-        "modified": 1781327337.7409906,
+        "modified": 1793274400.521589,
         "__class__": "studiolibrary.folderitem.FolderItem",
         "icon": "trash.svg"
     },
@@ -429,7 +429,7 @@
         "type": ".pose",
         "folder": "../../Trash",
         "category": "Trash",
-        "modified": 1781272417.426883,
+        "modified": 1793274400.429401,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../Trash/A_0010.pose": {
@@ -438,7 +438,7 @@
         "type": ".pose",
         "folder": "../../Trash",
         "category": "Trash",
-        "modified": 1781271764.08591,
+        "modified": 1793274400.4304,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../Trash/A_0020 (2).pose": {
@@ -447,7 +447,7 @@
         "type": ".pose",
         "folder": "../../Trash",
         "category": "Trash",
-        "modified": 1781272744.7092123,
+        "modified": 1793274400.4314003,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../Trash/A_0020.pose": {
@@ -456,7 +456,7 @@
         "type": ".pose",
         "folder": "../../Trash",
         "category": "Trash",
-        "modified": 1781272651.9070103,
+        "modified": 1793274400.4324012,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../Trash/HandA_0010.pose": {
@@ -465,8 +465,8 @@
         "type": ".pose",
         "folder": "../../Trash",
         "category": "Trash",
-        "modified": 1781272436.7948852,
-        "__class__": "studiolibrary.libraryitem.LibraryItem"
+        "modified": 1793274400.4334013,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../Trash/HandA_0020.pose": {
         "name": "HandA_0020.pose",
@@ -474,8 +474,8 @@
         "type": ".pose",
         "folder": "../../Trash",
         "category": "Trash",
-        "modified": 1777638500.6334636,
-        "__class__": "studiolibrary.libraryitem.LibraryItem"
+        "modified": 1793274400.5085857,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../Trash/HandA_0030.pose": {
         "name": "HandA_0030.pose",
@@ -483,8 +483,8 @@
         "type": ".pose",
         "folder": "../../Trash",
         "category": "Trash",
-        "modified": 1781327337.8020039,
-        "__class__": "studiolibrary.libraryitem.LibraryItem"
+        "modified": 1793274400.510586,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../Trash/HandA_0035.pose": {
         "name": "HandA_0035.pose",
@@ -492,8 +492,8 @@
         "type": ".pose",
         "folder": "../../Trash",
         "category": "Trash",
-        "modified": 1781789152.8392124,
-        "__class__": "studiolibrary.libraryitem.LibraryItem"
+        "modified": 1793274400.510586,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../Trash/HandA_0035_Test.pose": {
         "name": "HandA_0035_Test.pose",
@@ -501,8 +501,26 @@
         "type": ".pose",
         "folder": "../../Trash",
         "category": "Trash",
-        "modified": 1793154724.2659357,
+        "modified": 1793274400.5115857,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../Trash/HandA_0050.pose": {
+        "name": "HandA_0050.pose",
+        "path": "../../Trash/HandA_0050.pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1793274400.4173975,
+        "__class__": "studiolibrary.libraryitem.LibraryItem"
+    },
+    "../../Trash/HandA_0090 (2).pose": {
+        "name": "HandA_0090 (2).pose",
+        "path": "../../Trash/HandA_0090 (2).pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1793274400.4203982,
+        "__class__": "studiolibrary.libraryitem.LibraryItem"
     },
     "../../Trash/HandA_0090.pose": {
         "name": "HandA_0090.pose",
@@ -510,8 +528,8 @@
         "type": ".pose",
         "folder": "../../Trash",
         "category": "Trash",
-        "modified": 1793257894.7899234,
-        "__class__": "studiolibrary.libraryitem.LibraryItem"
+        "modified": 1793274400.512586,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../Trash/HandL_0025.pose": {
         "name": "HandL_0025.pose",
@@ -519,7 +537,7 @@
         "type": ".pose",
         "folder": "../../Trash",
         "category": "Trash",
-        "modified": 1781282491.083695,
+        "modified": 1793274400.513587,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../Trash/HandL_0030.pose": {
@@ -528,7 +546,7 @@
         "type": ".pose",
         "folder": "../../Trash",
         "category": "Trash",
-        "modified": 1781282911.038129,
+        "modified": 1793274400.513587,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../Trash/HandR_0040.pose": {
@@ -537,7 +555,7 @@
         "type": ".pose",
         "folder": "../../Trash",
         "category": "Trash",
-        "modified": 1781274436.4272087,
+        "modified": 1793274400.5145867,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../Trash/dd.pose": {
@@ -546,7 +564,7 @@
         "type": ".pose",
         "folder": "../../Trash",
         "category": "Trash",
-        "modified": 1777639677.3518,
+        "modified": 1793274400.5155878,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../Trash/mirror_test.mirror": {
@@ -555,7 +573,7 @@
         "type": ".mirror",
         "folder": "../../Trash",
         "category": "Trash",
-        "modified": 1777640841.1342683,
+        "modified": 1793274400.516587,
         "__class__": "studiolibrarymaya.mirroritem.MirrorItem"
     },
     "../../Trash/set_test_01 (2).set": {
@@ -564,7 +582,7 @@
         "type": ".set",
         "folder": "../../Trash",
         "category": "Trash",
-        "modified": 1777640100.7664685,
+        "modified": 1793274400.517588,
         "__class__": "studiolibrarymaya.setsitem.SetsItem"
     },
     "../../Trash/set_test_01.set": {
@@ -573,7 +591,7 @@
         "type": ".set",
         "folder": "../../Trash",
         "category": "Trash",
-        "modified": 1777639868.6397178,
+        "modified": 1793274400.5185883,
         "__class__": "studiolibrarymaya.setsitem.SetsItem"
     },
     "../../Trash/sl_set_01.pose": {
@@ -582,7 +600,7 @@
         "type": ".pose",
         "folder": "../../Trash",
         "category": "Trash",
-        "modified": 1777639708.9504871,
+        "modified": 1793274400.5195885,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../Trash/test_face_01 (2).pose": {
@@ -591,7 +609,7 @@
         "type": ".pose",
         "folder": "../../Trash",
         "category": "Trash",
-        "modified": 1777637373.7491243,
+        "modified": 1793274400.5205884,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../Trash/test_face_01.pose": {
@@ -600,7 +618,7 @@
         "type": ".pose",
         "folder": "../../Trash",
         "category": "Trash",
-        "modified": 1777637315.7974467,
+        "modified": 1793274400.5205884,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../Trash/test_hand_01.pose": {
@@ -609,7 +627,7 @@
         "type": ".pose",
         "folder": "../../Trash",
         "category": "Trash",
-        "modified": 1777638079.2366133,
+        "modified": 1793274400.521589,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     }
 }

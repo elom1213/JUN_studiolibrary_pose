@@ -1,359 +1,39 @@
 {
   "metadata": {
     "description": "",
-    "user": "USER",
-    "ctime": "1793257982",
+    "user": "user",
+    "ctime": "1793526075",
     "version": "1.0.0",
     "references": [
       {
-        "filename": "C:/JUN/JUN_Src_Rig/02_Cage_v02/Cage_v002_0130.mb",
+        "filename": "C:/JUN/JUN_Src_Rig/02_Cage_v02/Cage_v002_0130.mb{1}",
         "unresolved": "C:/JUN/JUN_Src_Rig/02_Cage_v02/Cage_v002_0130.mb",
         "namespace": "Cage",
-        "node": "test:ZIHAN:CageRN"
+        "node": "retarget:SUA:CageRN"
       }
     ],
-    "mayaVersion": "2024",
-    "mayaSceneFile": "C:/JUN/JUN_MUE/00_04_02_ANI_00_PJ_010/scenes/5010_cleanup_BCM_ZIHAN/00010_cleanup_ZIHAN_00120.mb"
+    "mayaVersion": "2023",
+    "mayaSceneFile": "C:/JUN/JUN_MUE/00_04_02_ANI_00_PJ_010/scenes/5030_cleanup_BCM_SUA/00010_cleanup_SUA_00040.mb"
   }
 ,
   "objects": {
-    "test:ZIHAN:Cage:CH_Index_intermediate_l_xx_ctl": {
+    "retarget:SUA:Cage:CH_Ring_proximal_r_xx_ctl": {
       "attrs": {
-        "rotateZ": {
-          "type": "doubleAngle",
-          "value": -45.184136294351084
-        },
-        "scaleY": {
-          "type": "double",
-          "value": 1.0
-        },
-        "translateY": {
-          "type": "doubleLinear",
-          "value": 0.0
-        },
-        "rotateY": {
-          "type": "doubleAngle",
-          "value": 0.0
-        },
-        "scaleZ": {
-          "type": "double",
-          "value": 1.0
-        },
-        "visibility": {
-          "type": "bool",
-          "value": true
-        },
-        "rotateX": {
-          "type": "doubleAngle",
-          "value": 0.0
-        },
-        "scaleX": {
-          "type": "double",
-          "value": 1.0
-        },
-        "translateZ": {
-          "type": "doubleLinear",
-          "value": 0.0
-        },
-        "translateX": {
-          "type": "doubleLinear",
-          "value": 0.0
-        }
-      }
-    },
-    "test:ZIHAN:Cage:CH_Index_distal_l_xx_ctl": {
-      "attrs": {
-        "rotateZ": {
-          "type": "doubleAngle",
-          "value": -28.921204412335115
-        },
-        "scaleY": {
-          "type": "double",
-          "value": 1.0
-        },
-        "translateY": {
-          "type": "doubleLinear",
-          "value": 0.0
-        },
-        "rotateY": {
-          "type": "doubleAngle",
-          "value": 0.0
-        },
-        "scaleZ": {
-          "type": "double",
-          "value": 1.0
-        },
-        "visibility": {
-          "type": "bool",
-          "value": true
-        },
-        "rotateX": {
-          "type": "doubleAngle",
-          "value": 0.0
-        },
-        "scaleX": {
-          "type": "double",
-          "value": 1.0
-        },
-        "translateZ": {
-          "type": "doubleLinear",
-          "value": 0.0
-        },
-        "translateX": {
-          "type": "doubleLinear",
-          "value": 0.0
-        }
-      }
-    },
-    "test:ZIHAN:Cage:CH_Ring_distal_l_xx_ctl": {
-      "attrs": {
-        "rotateZ": {
-          "type": "doubleAngle",
-          "value": 10.147375305175153
-        },
-        "scaleY": {
-          "type": "double",
-          "value": 1.0
-        },
-        "translateY": {
-          "type": "doubleLinear",
-          "value": 0.0
-        },
-        "rotateY": {
-          "type": "doubleAngle",
-          "value": 0.0
-        },
-        "scaleZ": {
-          "type": "double",
-          "value": 1.0
-        },
-        "visibility": {
-          "type": "bool",
-          "value": true
-        },
-        "rotateX": {
-          "type": "doubleAngle",
-          "value": 0.0
-        },
-        "scaleX": {
-          "type": "double",
-          "value": 1.0
-        },
-        "translateZ": {
-          "type": "doubleLinear",
-          "value": 0.0
-        },
-        "translateX": {
-          "type": "doubleLinear",
-          "value": 0.0
-        }
-      }
-    },
-    "test:ZIHAN:Cage:CH_Thumb_proxinal_l_xx_ctl": {
-      "attrs": {
-        "rotateZ": {
-          "type": "doubleAngle",
-          "value": -31.924501788387783
-        },
-        "scaleY": {
-          "type": "double",
-          "value": 1.0
-        },
-        "translateY": {
-          "type": "doubleLinear",
-          "value": 0.0
-        },
-        "rotateY": {
-          "type": "doubleAngle",
-          "value": -10.518687119394272
-        },
-        "scaleZ": {
-          "type": "double",
-          "value": 1.0
-        },
-        "visibility": {
-          "type": "bool",
-          "value": true
-        },
-        "rotateX": {
-          "type": "doubleAngle",
-          "value": 52.132880746049196
-        },
-        "scaleX": {
-          "type": "double",
-          "value": 1.0
-        },
-        "translateZ": {
-          "type": "doubleLinear",
-          "value": 0.0
-        },
-        "translateX": {
-          "type": "doubleLinear",
-          "value": 0.0
-        }
-      }
-    },
-    "test:ZIHAN:Cage:CH_Thumb_intermediate_l_xx_ctl": {
-      "attrs": {
-        "rotateZ": {
-          "type": "doubleAngle",
-          "value": 0.0
-        },
-        "scaleY": {
-          "type": "double",
-          "value": 1.0
-        },
-        "translateY": {
-          "type": "doubleLinear",
-          "value": 0.0
-        },
-        "rotateY": {
-          "type": "doubleAngle",
-          "value": -12.72908525526231
-        },
-        "scaleZ": {
-          "type": "double",
-          "value": 1.0
-        },
-        "visibility": {
-          "type": "bool",
-          "value": true
-        },
-        "rotateX": {
-          "type": "doubleAngle",
-          "value": 0.0
-        },
-        "scaleX": {
-          "type": "double",
-          "value": 1.0
-        },
-        "translateZ": {
-          "type": "doubleLinear",
-          "value": 0.0
-        },
-        "translateX": {
-          "type": "doubleLinear",
-          "value": 0.0
-        }
-      }
-    },
-    "test:ZIHAN:Cage:CH_Lttle_distal_l_xx_ctl": {
-      "attrs": {
-        "rotateZ": {
-          "type": "doubleAngle",
-          "value": 3.4404684255057774
-        },
-        "scaleY": {
-          "type": "double",
-          "value": 1.0
-        },
-        "translateY": {
-          "type": "doubleLinear",
-          "value": 0.0
-        },
-        "rotateY": {
-          "type": "doubleAngle",
-          "value": 0.0
-        },
-        "scaleZ": {
-          "type": "double",
-          "value": 1.0
-        },
-        "visibility": {
-          "type": "bool",
-          "value": true
-        },
-        "rotateX": {
-          "type": "doubleAngle",
-          "value": 0.0
-        },
-        "scaleX": {
-          "type": "double",
-          "value": 1.0
-        },
-        "translateZ": {
-          "type": "doubleLinear",
-          "value": 0.0
-        },
-        "translateX": {
-          "type": "doubleLinear",
-          "value": 0.0
-        }
-      }
-    },
-    "test:ZIHAN:Cage:CH_Lttle_intermediate_l_xx_ctl": {
-      "attrs": {
-        "rotateZ": {
-          "type": "doubleAngle",
-          "value": 0.9442745653974711
-        },
-        "scaleY": {
-          "type": "double",
-          "value": 1.0
-        },
-        "translateY": {
-          "type": "doubleLinear",
-          "value": 0.0
-        },
-        "rotateY": {
-          "type": "doubleAngle",
-          "value": 0.0
-        },
-        "scaleZ": {
-          "type": "double",
-          "value": 1.0
-        },
-        "visibility": {
-          "type": "bool",
-          "value": true
-        },
-        "rotateX": {
-          "type": "doubleAngle",
-          "value": 0.0
-        },
-        "scaleX": {
-          "type": "double",
-          "value": 1.0
-        },
-        "translateZ": {
-          "type": "doubleLinear",
-          "value": 0.0
-        },
-        "translateX": {
-          "type": "doubleLinear",
-          "value": 0.0
-        }
-      }
-    },
-    "test:ZIHAN:Cage:CH_Ring_proximal_l_xx_ctl": {
-      "attrs": {
-        "rotateZ": {
-          "type": "doubleAngle",
-          "value": 3.336984514400875
-        },
-        "scaleY": {
-          "type": "double",
-          "value": 1.0
-        },
-        "translateY": {
-          "type": "doubleLinear",
-          "value": 0.09473689155004415
-        },
         "rotateY": {
           "type": "doubleAngle",
           "value": 27.180119436163938
         },
-        "scaleZ": {
-          "type": "double",
-          "value": 1.0
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.01896008283770367
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 3.336984514400875
         },
         "visibility": {
           "type": "bool",
           "value": true
-        },
-        "rotateX": {
-          "type": "doubleAngle",
-          "value": -5.753236670438764
         },
         "scaleX": {
           "type": "double",
@@ -363,86 +43,86 @@
           "type": "doubleLinear",
           "value": 0.07238021960236454
         },
-        "translateX": {
-          "type": "doubleLinear",
-          "value": 0.01896008283770367
-        }
-      }
-    },
-    "test:ZIHAN:Cage:CH_Index_proxinal_l_xx_ctl": {
-      "attrs": {
-        "rotateZ": {
-          "type": "doubleAngle",
-          "value": -27.52486413699393
-        },
         "scaleY": {
           "type": "double",
           "value": 1.0
         },
         "translateY": {
           "type": "doubleLinear",
-          "value": 0.0
+          "value": 0.09473689155004415
         },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -5.753236670438764
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Index_proxinal_r_xx_ctl": {
+      "attrs": {
         "rotateY": {
           "type": "doubleAngle",
           "value": 0.8487312791168655
         },
-        "scaleZ": {
-          "type": "double",
-          "value": 1.0
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -27.52486413699393
         },
         "visibility": {
           "type": "bool",
           "value": true
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
         },
         "rotateX": {
           "type": "doubleAngle",
           "value": 8.190021706241742
-        },
-        "scaleX": {
-          "type": "double",
-          "value": 1.0
-        },
-        "translateZ": {
-          "type": "doubleLinear",
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Ring_distal_r_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
           "value": 0.0
         },
         "translateX": {
           "type": "doubleLinear",
           "value": 0.0
-        }
-      }
-    },
-    "test:ZIHAN:Cage:CH_Thumb_distal_l_xx_ctl": {
-      "attrs": {
+        },
         "rotateZ": {
           "type": "doubleAngle",
-          "value": 1.0546071038103477
-        },
-        "scaleY": {
-          "type": "double",
-          "value": 1.0
-        },
-        "translateY": {
-          "type": "doubleLinear",
-          "value": 0.0
-        },
-        "rotateY": {
-          "type": "doubleAngle",
-          "value": -10.909865002722118
-        },
-        "scaleZ": {
-          "type": "double",
-          "value": 1.0
+          "value": 10.147375305175153
         },
         "visibility": {
           "type": "bool",
           "value": true
         },
-        "rotateX": {
-          "type": "doubleAngle",
-          "value": 0.0
-        },
         "scaleX": {
           "type": "double",
           "value": 1.0
@@ -451,41 +131,41 @@
           "type": "doubleLinear",
           "value": 0.0
         },
-        "translateX": {
-          "type": "doubleLinear",
-          "value": 0.0
-        }
-      }
-    },
-    "test:ZIHAN:Cage:CH_Ring_intermediate_l_xx_ctl": {
-      "attrs": {
-        "rotateZ": {
-          "type": "doubleAngle",
-          "value": 0.7246234501969724
-        },
         "scaleY": {
           "type": "double",
           "value": 1.0
         },
         "translateY": {
           "type": "doubleLinear",
-          "value": 0.0
-        },
-        "rotateY": {
-          "type": "doubleAngle",
           "value": 0.0
         },
         "scaleZ": {
           "type": "double",
           "value": 1.0
         },
-        "visibility": {
-          "type": "bool",
-          "value": true
-        },
         "rotateX": {
           "type": "doubleAngle",
           "value": 0.0
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Lttle_distal_r_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 3.440468425505777
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
         },
         "scaleX": {
           "type": "double",
@@ -495,85 +175,41 @@
           "type": "doubleLinear",
           "value": 0.0
         },
-        "translateX": {
-          "type": "doubleLinear",
-          "value": 0.0
-        }
-      }
-    },
-    "test:ZIHAN:Cage:CH_Middle_proximal_l_xx_ctl": {
-      "attrs": {
-        "rotateZ": {
-          "type": "doubleAngle",
-          "value": -5.2184519440360075
-        },
         "scaleY": {
           "type": "double",
           "value": 1.0
         },
         "translateY": {
           "type": "doubleLinear",
-          "value": 0.0
-        },
-        "rotateY": {
-          "type": "doubleAngle",
-          "value": 16.942812631943596
-        },
-        "scaleZ": {
-          "type": "double",
-          "value": 1.0
-        },
-        "visibility": {
-          "type": "bool",
-          "value": true
-        },
-        "rotateX": {
-          "type": "doubleAngle",
-          "value": -4.219554341309848
-        },
-        "scaleX": {
-          "type": "double",
-          "value": 1.0
-        },
-        "translateZ": {
-          "type": "doubleLinear",
-          "value": 0.0
-        },
-        "translateX": {
-          "type": "doubleLinear",
-          "value": 0.0
-        }
-      }
-    },
-    "test:ZIHAN:Cage:CH_Middle_distal_l_xx_ctl": {
-      "attrs": {
-        "rotateZ": {
-          "type": "doubleAngle",
-          "value": 12.686787732384587
-        },
-        "scaleY": {
-          "type": "double",
-          "value": 1.0
-        },
-        "translateY": {
-          "type": "doubleLinear",
-          "value": 0.0
-        },
-        "rotateY": {
-          "type": "doubleAngle",
           "value": 0.0
         },
         "scaleZ": {
           "type": "double",
           "value": 1.0
         },
-        "visibility": {
-          "type": "bool",
-          "value": true
-        },
         "rotateX": {
           "type": "doubleAngle",
           "value": 0.0
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Thumb_intermediate_r_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -12.72908525526231
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
         },
         "scaleX": {
           "type": "double",
@@ -583,17 +219,49 @@
           "type": "doubleLinear",
           "value": 0.0
         },
-        "translateX": {
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateY": {
           "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
           "value": 0.0
         }
       }
     },
-    "test:ZIHAN:Cage:CH_Lttle_proximal_l_xx_ctl": {
+    "retarget:SUA:Cage:CH_Lttle_intermediate_r_xx_ctl": {
       "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
         "rotateZ": {
           "type": "doubleAngle",
-          "value": 19.284515665275347
+          "value": 0.9442745653974711
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
         },
         "scaleY": {
           "type": "double",
@@ -601,23 +269,79 @@
         },
         "translateY": {
           "type": "doubleLinear",
-          "value": 0.03965239897648584
+          "value": 0.0
         },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Thumb_proxinal_r_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -10.518687119394272
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -31.924501788387783
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 52.132880746049196
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Lttle_proximal_r_xx_ctl": {
+      "attrs": {
         "rotateY": {
           "type": "doubleAngle",
           "value": 38.950503931630735
         },
-        "scaleZ": {
-          "type": "double",
-          "value": 1.0
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.04979161118958546
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 19.284515665275347
         },
         "visibility": {
           "type": "bool",
           "value": true
-        },
-        "rotateX": {
-          "type": "doubleAngle",
-          "value": -1.4465878757481576
         },
         "scaleX": {
           "type": "double",
@@ -627,41 +351,41 @@
           "type": "doubleLinear",
           "value": 0.13756438751566186
         },
-        "translateX": {
-          "type": "doubleLinear",
-          "value": 0.04979161118958546
-        }
-      }
-    },
-    "test:ZIHAN:Cage:CH_Middle_intermideate_l_xx_ctl": {
-      "attrs": {
-        "rotateZ": {
-          "type": "doubleAngle",
-          "value": -0.4732819716820913
-        },
         "scaleY": {
           "type": "double",
           "value": 1.0
         },
         "translateY": {
           "type": "doubleLinear",
-          "value": 0.0
-        },
-        "rotateY": {
-          "type": "doubleAngle",
-          "value": 0.0
+          "value": 0.03965239897648584
         },
         "scaleZ": {
           "type": "double",
           "value": 1.0
         },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -1.4465878757481576
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Middle_distal_r_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -0.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 12.686787732384587
+        },
         "visibility": {
           "type": "bool",
           "value": true
-        },
-        "rotateX": {
-          "type": "doubleAngle",
-          "value": 0.0
         },
         "scaleX": {
           "type": "double",
@@ -671,8 +395,944 @@
           "type": "doubleLinear",
           "value": 0.0
         },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Middle_intermideate_r_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -0.0
+        },
         "translateX": {
           "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -0.4732819716820913
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Middle_proximal_r_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 16.942812631943596
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -5.2184519440360075
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -4.219554341309848
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Ring_intermediate_r_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -0.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.7246234501969724
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Index_distal_r_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -28.921204412335115
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Thumb_distal_r_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -10.909865002722118
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 1.0546071038103477
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Index_intermediate_r_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -45.184136294351084
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Index_intermediate_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -45.184136294351084
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Index_distal_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -28.921204412335115
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Ring_distal_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 10.147375305175153
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Thumb_proxinal_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -10.518687119394272
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -31.924501788387783
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 52.132880746049196
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Thumb_intermediate_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -12.72908525526231
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Lttle_distal_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 3.440468425505777
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Lttle_intermediate_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.9442745653974711
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Ring_proximal_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 27.180119436163938
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.01896008283770367
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 3.336984514400875
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.07238021960236454
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.09473689155004415
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -5.753236670438764
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Index_proxinal_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.8487312791168655
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -27.52486413699393
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 8.190021706241742
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Thumb_distal_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -10.909865002722118
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 1.0546071038103477
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Ring_intermediate_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.7246234501969724
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Middle_proximal_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 16.942812631943596
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -5.2184519440360075
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -4.219554341309848
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Middle_distal_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 12.686787732384587
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Lttle_proximal_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 38.950503931630735
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.04979161118958546
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 19.284515665275347
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.13756438751566186
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.03965239897648584
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -1.4465878757481576
+        }
+      }
+    },
+    "retarget:SUA:Cage:CH_Middle_intermideate_l_xx_ctl": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -0.4732819716820913
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
           "value": 0.0
         }
       }
